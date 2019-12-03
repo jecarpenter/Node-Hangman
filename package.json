@@ -1,0 +1,9 @@
+{
+    "name": "node-hangman",
+    "version": "1.0.0",
+    "description": "hangman",
+    "dependencies": {
+        "inquirer": "^7.0.0",
+        "prompt": "^1.0.0"
+    }
+}
